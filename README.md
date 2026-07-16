@@ -19,8 +19,7 @@ Right now, I am focusing on learning <strong>TypeScript</strong> to build more s
 <h2>Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,postgres,mongodb,firebase,prisma,git,github,vscode" /></p>
 
 <h2> Interests</h2>
 
@@ -42,6 +41,16 @@ Right now, I am focusing on learning <strong>TypeScript</strong> to build more s
 <h2> Projects</h2>
 
 <ul>
+
+  <li>
+  <strong>HORUS – Intelligent Medical Assistance Ecosystem</strong><br/>
+  An AI-powered medical assistance ecosystem designed to provide fast access to critical health information during emergencies.<br/>
+  Includes a <strong>web platform, mobile application, Wear OS smartwatch app, NFC medical devices</strong>, and a <strong>personalized AI assistant</strong> working together to improve emergency response.<br/>
+  <strong>1st Place Winner</strong> in Riwi's Internal Innovation Challenge.
+</li>
+
+<br/>
+
   <li>
     <strong>Medicamentos al Día</strong><br/>
     A project focused on medication management and organization to improve user tracking.
