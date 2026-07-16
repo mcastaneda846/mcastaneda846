@@ -87,7 +87,17 @@ I enjoy collaborating with others, sharing ideas, and helping solve problems wit
 I enjoy dancing and singing.
 </p>
 
+<h2 align="left">Connect with me</h2>
 
+<p align="left">
+<a href="mailto:maribeth3112@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maribel-castaneda-cardona">
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=0A66C2"/>
+</a>
+</p>
 <h3 align="center">✨ Always learning, always improving ✨</h3>
 
 ![snake gif](https://github.com/mcastaneda846/mcastaneda846/blob/output/github-contribution-grid-snake.svg)
